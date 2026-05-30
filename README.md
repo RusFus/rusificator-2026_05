@@ -18,11 +18,6 @@
 3. Запустите `RusFus.exe`
 4. Нажмите «Установить»
 
-## Поддерживаемые версии
-
-- **Fusion 360 2703+** — новый набор ru-RU
-- **Fusion 360 до 2703** — Legacy набор ru-RU
-
 ## Ссылки
 
 - [GitHub](https://github.com/RusFus/rusificator-2026_05)
